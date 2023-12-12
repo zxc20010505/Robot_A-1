@@ -1,0 +1,114 @@
+ENVT0100,LM:2023/12/08 05:00:21:926,DS:0000001439,CS:14106,MA:00-FF-CE-CA-F9-57,EI:           
+sActiveChild="Main.prg"
+bMdiMaximized=False
+ProgramFile1 {
+	sName="Main.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=4
+		nTop=5
+		nWidth=981
+		nHeight=728
+	}
+}
+ProgramFile2 {
+	sName="TCPIPdemo.prg"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=811
+		nTop=2
+		nWidth=954
+		nHeight=728
+	}
+}
+nIncludeFileCount=0
+nPointFileCount=1
+PointFile1 {
+	sName="Points.pts"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=13
+		nTop=31
+		nWidth=930
+		nHeight=632
+	}
+}
+sActiveWindow="main.prg"
+CmdWindow {
+	bOpened=False
+	Window {
+		nLeft=1
+		nTop=4
+		nWidth=803
+		nHeight=728
+	}
+	nWinState=0
+}
+RunWindow {
+	bOpened=False
+	Window {
+		nLeft=28
+		nTop=259
+		nWidth=682
+		nHeight=383
+	}
+}
+IOLabelEditor {
+	bOpened=False
+	Window {
+		nLeft=264
+		nTop=87
+		nWidth=930
+		nHeight=486
+	}
+	nWinState=0
+}
+IOMonitor {
+	bOpened=False
+	Window {
+		nLeft=824
+		nTop=302
+		nWidth=478
+		nHeight=488
+	}
+}
+TaskMgr {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+Macros {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+RobotMgr {
+	bOpened=False
+	Window {
+		nLeft=135
+		nTop=142
+		nWidth=689
+		nHeight=448
+	}
+}
+UserErrorEditor {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
